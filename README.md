@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou Lucas Robadel Mileno 👋
 
-<!--
-**milenorl/milenorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Infrastructure Services Analyst II @ DXC Technology
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atuo com suporte de TI, infraestrutura, field service e atendimento corporativo. Tenho interesse em tecnologia, automação, desenvolvimento de software e computação em nuvem.
+
+## 🛠️ Tecnologias e Conhecimentos
+
+- Windows
+- Microsoft 365
+- ServiceNow
+- Python
+- JavaScript
+- SQL
+- Excel
+- Infraestrutura de TI
+- Field Service
+
+## 📜 Certificações
+
+- ITIL 4 Foundation
+- LGPD
+- Excel
+- Cursos Alura e Udemy
+
+## 🌎 Contato
+
+📍 Vitória, ES - Brasil
+
+🌐 https://milenorl-dev.carrd.co
+
+💼 LinkedIn:
+https://www.linkedin.com/in/lucas-mileno
+
+📧 milenorl.dev@outlook.com
