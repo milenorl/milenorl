@@ -34,6 +34,6 @@ Atuo com suporte de TI, infraestrutura, field service e atendimento corporativo.
 🌐 https://milenorl-dev.carrd.co
 
 💼 LinkedIn:
-https://www.linkedin.com/in/lucas-mileno
+https://www.linkedin.com/in/lucas-mileno-2aa190271
 
 📧 milenorl.dev@outlook.com
