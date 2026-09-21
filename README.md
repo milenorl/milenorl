@@ -134,18 +134,38 @@ Curto documentar processos com clareza, testar automações antes de confiar nel
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lucas-mileno-2aa190271" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://www.instagram.com/milenorl.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-58A6FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://milenorl-dev.carrd.co/" target="_blank">
-  <img src="https://img.shields.io/badge/Site%20Pessoal-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="mailto:milenorl.dev@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/Outlook-58A6FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0D1117" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/lucas-mileno-2aa190271" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br/>
+      <sub>in/lucas-mileno-2aa190271</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/milenorl.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      <br/>
+      <sub>@milenorl.dev</sub>
+    </td>
+    <td align="center">
+      <a href="https://milenorl-dev.carrd.co/" target="_blank">
+        <img src="https://img.shields.io/badge/Site%20Pessoal-1B3358?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <br/>
+      <sub>milenorl-dev.carrd.co</sub>
+    </td>
+    <td align="center">
+      <a href="mailto:milenorl.dev@outlook.com" target="_blank">
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+      </a>
+      <br/>
+      <sub>milenorl.dev@outlook.com</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
