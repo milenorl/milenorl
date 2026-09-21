@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:15243B,100:1B3358&height=230&section=header&text=Lucas%20Mileno&fontSize=52&fontColor=E6EDF3&fontAlignY=36&desc=Infrastructure%20Services%20Analyst%20II%20%40%20DXC%20Technology&descAlignY=54&descSize=17&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/milenorl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Infraestrutura+de+TI+%7C+Suporte+T%C3%A9cnico+%7C+Field+Service;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Automatizando+processos+entre+Excel+e+ServiceNow;Vit%C3%B3ria+-+ES+%2C+Brasil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Infraestrutura+de+TI+%7C+Suporte+T%C3%A9cnico;Field+Service+%7C+Automa%C3%A7%C3%A3o+de+Processos;Estudante+de+An%C3%A1lise+e+Desenvolvimento;Vit%C3%B3ria+-+ES+%2C+Brasil" alt="Typing SVG" />
 </a>
 
 </div>
