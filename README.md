@@ -38,6 +38,14 @@ Curto documentar processos com clareza, testar automações antes de confiar nel
 
 <br>
 
+## 🏅 Reconhecimentos
+
+<img src="https://img.shields.io/badge/🥈%202º%20Lugar-Semana%20do%20Reconhecimento%20Oxygen%20%7C%20Vale%2FDXC%20(2026)-1B3358?style=for-the-badge&labelColor=0D1117" />
+
+> Reconhecido entre os destaques da equipe por atitudes de colaboração, dedicação e impacto positivo no atendimento aos clientes.
+
+<br>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
@@ -64,43 +72,35 @@ Curto documentar processos com clareza, testar automações antes de confiar nel
 
 ## 🚀 Projetos
 
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/milenorl/milenorl.github.io">
+        <img align="center" src="https://img.shields.io/badge/📄%20milenorl.github.io-Site%20Pessoal%20%7C%20Dev%20%26%20Infraestrutura-0D1117?style=for-the-badge&labelColor=1B3358" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Para adicionar um novo projeto, duplique o bloco <tr><td> acima trocando o link e o texto do badge. -->
+
+<br>
+
+## 📊 GitHub Stats & Linguagens
+
 <div align="center">
 
-<a href="https://github.com/milenorl/milenorl.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=milenorl&repo=milenorl.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+<img src="./profile/metrics.svg" alt="Métricas do GitHub de milenorl" width="100%" />
 
 </div>
 
-<!--
-  Para adicionar um novo projeto em card, duplique o bloco abaixo trocando "repo=":
-  <a href="https://github.com/milenorl/NOME-DO-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=milenorl&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
--->
-
 <br>
 
-## 📊 GitHub Stats
+## 🔥 Streak
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=milenorl&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenorl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="35%" />
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=milenorl&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
-
-</div>
-
-<br>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=milenorl&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="90%" />
 
 </div>
 
@@ -110,7 +110,7 @@ Curto documentar processos com clareza, testar automações antes de confiar nel
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=milenorl&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="./profile/trophy.svg" alt="Trophies do GitHub de milenorl" width="90%" />
 
 </div>
 
@@ -125,8 +125,6 @@ Curto documentar processos com clareza, testar automações antes de confiar nel
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milenorl/milenorl/output/github-contribution-grid-snake.svg" />
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/milenorl/milenorl/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<sub>⚠️ A cobra só aparece depois de rodar a GitHub Action indicada no fim desta resposta.</sub>
 
 </div>
 
